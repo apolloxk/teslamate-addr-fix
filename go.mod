@@ -1,4 +1,4 @@
-module github.com/WayneJz/teslamate-addr-fix
+module github.com/apolloxk/teslamate-addr-fix
 
 go 1.19
 
